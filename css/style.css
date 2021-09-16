@@ -64,3 +64,11 @@ aside {
     background-color: lightblue;
     float: left;
 }
+
+/* footer */
+footer {
+    margin: 20px 0;
+    /* debug */
+    height: 50px;
+    background-color: purple;
+}
